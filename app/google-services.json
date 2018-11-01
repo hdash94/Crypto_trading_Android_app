@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "567681432292",
+    "firebase_url": "https://cosport-e47c7.firebaseio.com",
+    "project_id": "cosport-e47c7",
+    "storage_bucket": "cosport-e47c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567681432292:android:5df41844a4c7b0a3",
+        "android_client_info": {
+          "package_name": "herambadash.cos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567681432292-h4jv6m7gc4pipi5d0fgbrfcu9cvtfqbf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "herambadash.cos",
+            "certificate_hash": "baa97d9da4d46daed185ba520868de5dde1f1ecc"
+          }
+        },
+        {
+          "client_id": "567681432292-7rnrpm3ekl3esg5c0cd69694pjoiqe7h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHtL-ZjtU6vfmxyPSDggDIihj9SyaxhVI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567681432292-7rnrpm3ekl3esg5c0cd69694pjoiqe7h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
